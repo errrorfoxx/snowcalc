@@ -1,4 +1,4 @@
-# snowcalc
+# SnowCalc
 A stupidly simple open source calculator based on the KISS principle.
 
 It is likely that you have a question: "why do I need a calculator that I can make myself in 15 minutes?"
